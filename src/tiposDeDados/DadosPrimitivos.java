@@ -15,5 +15,8 @@ public class DadosPrimitivos {
         char inicial = 'N';
         boolean vivoOuMorto = true;
         Long saldoBancario = 999999L;
+
+
+        System.out.printf("idade: %d\naltura: %.2f", idade, altura);
     }
 }
