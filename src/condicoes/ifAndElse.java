@@ -1,4 +1,4 @@
-package condicoes;
+package NivelFacil.tiposDeDados.condicoes;
 
 public class ifAndElse {
     public static void main(String[] args) {

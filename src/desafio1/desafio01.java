@@ -1,4 +1,4 @@
-package desafio1;
+package NivelFacil.tiposDeDados.desafio1;
 
 /*
  *  Crie um programa que represente três ninjas da vila da Folha ( Konoha ) de "Naruto" e suas respectivas missões.
