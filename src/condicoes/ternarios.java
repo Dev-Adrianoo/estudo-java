@@ -1,4 +1,4 @@
-package NivelFacil.tiposDeDados.condicoes;
+package condicoes;
 
 public class ternarios {
     public static void main(String[] args) {
