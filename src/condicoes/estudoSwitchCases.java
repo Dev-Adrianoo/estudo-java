@@ -20,6 +20,7 @@ public class estudoSwitchCases {
             case 1:
                 System.out.println("You chose Naruto Uzumaki");
                 break;
+
             case 2:
                 System.out.println("You chose Sasuke Uchiha");
                 break;
