@@ -1,5 +1,6 @@
-package NivelFacil.tiposDeDados.desafio2;
+package desafio2;
 
+import java.io.PrintStream;
 import java.util.Scanner;
 
 /*
